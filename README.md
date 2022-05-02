@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+##To start the jason server
+Type this command on the terminal, this command opens the json server on the port 8000 in your local machine where the data is stored and is fetched.
+npx json-server --watch data/db.json --port 8000
